@@ -82,5 +82,9 @@ This project aims to predict house prices based on various features such as loca
 - Include **real-time market trends** from Zillow API.
 - Optimize model hyperparameters for better accuracy.
 
+
+## Output:
+1.![Output Image 1](image\img1.png)
+2.![Output Image 2](image\img2.png)
 ---
 
