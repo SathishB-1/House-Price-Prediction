@@ -84,7 +84,7 @@ This project aims to predict house prices based on various features such as loca
 
 
 ## User Interface:
-1.![image alt](https://github.com/SathishB-1/House-Price-Prediction/blob/3257c09e7d1510e08921b24fae35772993355896/image1.png)
-2.![image alt](https://github.com/SathishB-1/House-Price-Prediction/blob/23731ac00471c1916ae635a52016fba5b879c14a/image2.png)
+![image alt](https://github.com/SathishB-1/House-Price-Prediction/blob/3257c09e7d1510e08921b24fae35772993355896/image1.png)
+![image alt](https://github.com/SathishB-1/House-Price-Prediction/blob/23731ac00471c1916ae635a52016fba5b879c14a/image2.png)
 ---
 
