@@ -84,7 +84,7 @@ This project aims to predict house prices based on various features such as loca
 
 
 ## Output:
-1.![Output Image 1](image\img1.png)
+1.![image alt](https://github.com/SathishB-1/House-Price-Prediction/blob/3257c09e7d1510e08921b24fae35772993355896/image1.png)
 2.![Output Image 2](image\img2.png)
 ---
 
